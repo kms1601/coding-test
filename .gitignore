@@ -1,0 +1,6 @@
+*\.cph
+*\vscode
+*\build
+*\.idea
+*\out
+java\java.iml
