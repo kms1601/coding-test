@@ -3,4 +3,5 @@
 *\build
 *\.idea
 *\out
-java\java.iml
+*\java.iml
+*.bin
